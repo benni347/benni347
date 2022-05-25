@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benni347" alt="benni347" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [cedric.skwar.me](cedric.skwar.me)
+- 👨‍💻 All of my projects are available at [cedric.skwar.me](https://cedric.skwar.me)
 
 - 📫 How to reach me **cdrc+github@skwar.me**
 

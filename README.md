@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [cedric.skwar.me](https://cedric.skwar.me)
 
-- 📫 How to reach me **cdrc+github@skwar.me**
+- 📫 How to reach me **cdrc+github@5y5.one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
